@@ -35,19 +35,15 @@ sidebar:
 
     interests:
       - item: Engineering
-        link:
-
-      - item: Programming Languages
-        link:
-
-      - item: Cryptocurrency
-        link:
         
+      - item: Programming Languages
+        
+      - item: Cryptocurrency
+     
       - item: Trading and Investments
-        link:
         
       - item: Gaming
-        link:
+        
 
 career-profile:
     title: Career Profile
@@ -95,5 +91,5 @@ skills:
       - name: Arduino and Raspberry Pi
         level: 70%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: 
+
